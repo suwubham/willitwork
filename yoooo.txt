@@ -1,0 +1,51 @@
+The COVID-19 pandemic has negatively impacted many lives, especially those of
+students. This proposed project, Sirani, focuses on the mental health and well-being
+of the user while aiming to help them effectively manage their mental health. It will
+include a personal goal setting feature, sleep and mood tracking, mental health
+resources, and a weekly test for self-awareness. As required, this project will be
+developed using the programming language C++ along with Qt framework to design
+a user-friendly GUI. MySQL will also be used as the database management system.
+Sirani intends to make mental health accessible, comfortable, and non-stigmatizing.Although our lives have been drastically altered over the past 2 years, people are
+returning to their normal lives following the end of lockdown. The mental health of
+people has taken a heavy hit throughout the lockdown and re-adapting back to our
+lives is equally challenging. Amidst all this, students have a more difficult time
+focusing on their studies, especially with the never-ending fear of another wave of
+Corona. The World Health Organization (WHO) has identified mental health as an
+integral component in COVID-19 response. [1] Loneliness and substance abuse have
+been a common problem among youths and adults alike. “Addressing mental health
+and substance use problems in young adults, both during and after the COVID-19
+pandemic, is an imperative,” says Viviana Horigian from the University of Miami in
+Coral Gables, Florida. [2]
+The issue of mental health is not unique to the pandemic but has always been of
+prime importance. “There is evidence that self-monitoring, on its own, is a
+therapeutic activity via increasing self-awareness”. [3] Hence, A relatively new
+approach to mental health is the use of software to monitor mood, stress, coping
+strategies, activities, eating, sleeping, and exercise. A trial conducted with 163
+participants regarding a mobile type application found out that the data collected from
+the application can be reviewed by a doctor which assisted the communication
+between the doctor and the patient and helped the doctor understand the patient better.
+It was concluded that "Monitoring mental health symptoms appears to increase
+emotional self-awareness (ESA) and implementing a mental health program in
+primary care and providing frequent reminders, clinical resources, and support to
+1
+general practitioners (GP) substantially improved mental health outcomes for the
+sample as a whole.” [4]
+Based on this knowledge, we have developed “Sirani - Your Therapy Buddy”
+designed to help users more effectively manage their mental health. It comprises a
+multitude of features ranging from mood and sleep tracker to a collection of resources
+with an interactive UI designed with Qt framework and C++ to help our users feel
+better.
+In a world, so demanding, it is not only important to take care of physical health but
+also of our mental health. But Nepal being a conservative society, people are not only
+hesitant to consult a psychiatrist about their mental health but it is often overlooked
+and stigmatized. Depression, Anxiety, Attention-deficit/hyperactivity disorder
+(ADHD), Obsessive-Compulsive Disorder (OCD) are some of the most common
+mental health illnesses. In a study conducted among 1647 participants aged 13 years
+2
+and above in three districts of Nepal in 2019, 13.2% of adults and 11.2% of children
+were suffering from some sort of mental disorder. [5]
+Hence, we have designed Sirani to help people not just to keep track of their mental
+health but also to encourage going to therapy if needed. This is done via a daily mood
+and sleep tracker, a weekly test to help the user assess their current mental health
+status, and carefully chosen resources to encourage visiting professionals who can
+help them for further professional counseling.

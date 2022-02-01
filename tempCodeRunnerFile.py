@@ -1,0 +1,1 @@
+lf.name,self.age)
